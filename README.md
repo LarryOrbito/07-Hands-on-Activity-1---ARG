@@ -15,3 +15,14 @@ This project is a simple Java application that simulates different types of anim
 ### Prerequisites
 
 - Java Development Kit (JDK) installed on your machine.
+  
+## Usage
+When prompted, choose an animal by pressing B for Bird, C for Cat, or D for Dog.
+The program will display the animal's details.
+
+## Code Structure
+Animal.java: Abstract class defining the structure for animal behaviors.
+Dog.java: Class representing a Dog and its behaviors.
+Cat.java: Class representing a Cat and its behaviors.
+Bird.java: Class representing a Bird and its behaviors.
+RunAnimal.java: Main class to run the application and interact with the user.
